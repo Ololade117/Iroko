@@ -1,0 +1,9 @@
+torch
+git+https://github.com/huggingface/transformers.git
+peft
+accelerate
+bitsandbytes>=0.46.1
+gradio
+spaces
+gspread
+google-auth
