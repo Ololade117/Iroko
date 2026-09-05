@@ -1,5 +1,5 @@
 # Team-Iroko-Medical-Chat-bot
-TRI AI Project for Team Iroko 
+TRI AI Project for Team Iroko(Members: Ololade Ogunleye, Lawal Habib, Stephanie Omolu, Alemoh Rapheal)
 # Iroko — AI-Powered Mental Health Support Chatbot
 
 Iroko is a fine-tuned conversational AI designed to provide culturally appropriate, safety-conscious mental health support for a Nigerian context. It's built by fine-tuning Google's Gemma 4 E2B model on a mental health counseling dataset, with a full pipeline spanning training, safety evaluation, and production deployment.
